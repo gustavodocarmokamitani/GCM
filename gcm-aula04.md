@@ -1,7 +1,7 @@
-#gcm-ex04
+gcm-ex04
 
-#Exercicio 4 GCM
+Exercicio 4 GCM
 
-#Gestão de Configuração
+Gestão de Configuração
 
-#Autor: Gustavo do Carmo Kamitani
+Autor: Gustavo do Carmo Kamitani
